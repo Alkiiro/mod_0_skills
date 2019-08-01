@@ -1,0 +1,79 @@
+-How to Become a Turing Student
+  -Apply
+    -Fill Out Application
+      -Name
+        -First Name
+        -Last Name
+      -Contact Information
+        -Phone Number
+          -Work Number
+          -Home Number
+          -Mobile Number
+        -Email Address
+          -Primary Email
+          -Secondary Email
+        -Mailing Address
+          -Street Address
+            -Apartment Number
+          -City Address
+          -State Address
+          -ZIP Code
+          -Address Type
+            -Apartment
+          -P.O. Box
+      -Work Experience
+        -Most Recent Work Experience
+          -Recommendations
+            -Recommendation #1
+          -Reason for Leaving
+      -Logic Quiz
+        -Start Quiz
+          -Answer Questions
+            -Question #1
+        -Submit Quiz
+    -Submit Application
+      -Review Application
+        -All Fields Filled
+    -Turing Interview
+      -Be Punctual
+        -Pay Attention
+          -Take Notes
+  -Enroll
+    -Receive Turing Enrollment Letter
+      -Read Thoroughly for instructions
+    -Send Tuition
+      -Receive Loan
+        -Compare Banks
+          -Interest Rates
+          -APR%
+        -Pick Bank
+          -Fill Out Loan Application
+    -Complete Mod-0
+      -Setup Laptop
+        -Download XCode
+          -Navigate to Apple's Developer's Tools
+        -Create GitHub Account
+      -Attend All Sessions
+        -Correct for Timezone Mismatch
+          - MST -1 Hour
+        -Session 1
+          -Take Notes
+          -Review Notes
+          -Complete Homework
+            -Create a Gist for Homework
+      -Work on Capstone
+        -Schedule 7 Days for Capstone
+        -Day 1
+          -Study Vocab
+            -Create Vocab Cards
+              -Lookup Definitions
+                -Open Google
+              -Download AnkiApp
+                -Place Definitions in AnkiApp Flash Cards
+        -Submit Capstone
+          -Submit Professional Development Gist
+            -Paste Pairin Image in Gist
+              -Take Pairin Test
+              -Screenshot Test Results
+                -CMD + Shft + 4
+                -Save to Images directory
