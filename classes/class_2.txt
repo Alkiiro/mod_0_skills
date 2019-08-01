@@ -1,0 +1,11 @@
+Knife
+  -Attributes:
+    -Length (Integer)
+    -Edge (String)
+    -Sharpness (Boolean)
+    -Cleanliness (Boolean)
+  -Methods:
+    -Cut (Calls upon Sharpness to return true)
+    -Sharpened (changes sharpness to true)
+    -Washed (cleanliness to true)
+    -Dropped (modifies edge to chipped)
