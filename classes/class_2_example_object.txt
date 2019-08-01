@@ -1,0 +1,11 @@
+Cangshan Thomas Keller Santoku Knife
+  -Attributes:
+    -7"
+    -Straight
+    -Very Sharp
+    -Clean
+  -Methods:
+    -Cut (Very Sharp changes to false)
+    -Sharpen (Very Sharp changes to true)
+    -Washed (Clean changes to true)
+    -Dropped (Straight changes to bent)
