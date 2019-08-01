@@ -1,0 +1,11 @@
+Stove-Top
+  -Attributes:
+    -Burners (Boolean)
+    -Gas Dials (Array)
+    -Emergency Sprinklers (Boolean)
+    -Model (String)
+  -Methods:
+    -Light Burners (changes the Burners from off to on)
+    -Set Heat (changes Gas Dials to desired heat out put)
+    -Burn Food (changes emergency sprinklers from off to on)
+    -Check Warranty (calls upon Model's String)
