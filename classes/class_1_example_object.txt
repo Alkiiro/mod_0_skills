@@ -1,0 +1,11 @@
+Cooking Performance Group Natural Gas Stove
+  -Attributes:
+    -6 Burners
+    -11 Gas Dials
+    -6 Emergency Sprinklers
+    -S60-GS24-N
+  -Methods:
+    -Light Front Three Burners (Burner_2, Burner_4, Burner_6)
+    -Set Heat to High on Burner_2, Burner_4 and Low on Burner_6
+    -Set off Emergency Sprinklers over Burner_2, Burner_4
+    -Damage Stove-Top putting out fire

@@ -1,6 +1,6 @@
-Stove-Top
+Industrial Stove-Top
   -Attributes:
-    -Burners (Boolean)
+    -Burners (Array)
     -Gas Dials (Array)
     -Emergency Sprinklers (Boolean)
     -Model (String)
