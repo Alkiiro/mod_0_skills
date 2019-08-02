@@ -3,6 +3,7 @@
     -Fill Out Application
       -Name
         -First Name
+        -Middle Name
         -Last Name
       -Contact Information
         -Phone Number
@@ -23,11 +24,18 @@
           -P.O. Box
       -Work Experience
         -Most Recent Work Experience
-          -Recommendations
-            -Recommendation #1
+          -Job Title
+          -Company Name
+          -Dates of Employment
+          -Managers
+          -Responsibilities
+          -Skills Used in Job
+          -Accomplishments
           -Reason for Leaving
       -Logic Quiz
+        -Gather Pencil/Paper
         -Start Quiz
+          -Read instructions
           -Answer Questions
             -Question #1
         -Submit Quiz
@@ -35,19 +43,25 @@
       -Review Application
         -All Fields Filled
     -Turing Interview
+      -Schedule Interview
+      -Think of Possible Questions Beforehand
+      -Clear Room of Distractions
       -Be Punctual
-        -Pay Attention
+      -Pay Attention
           -Take Notes
+      -Ask Questions at the End
   -Enroll
     -Receive Turing Enrollment Letter
       -Read Thoroughly for instructions
     -Send Tuition
-      -Receive Loan
+      -Research Tuition Due Date
+      -Obtain Loan
         -Compare Banks
           -Interest Rates
           -APR%
         -Pick Bank
           -Fill Out Loan Application
+      -Double Check Tuition received by Turing
     -Complete Mod-0
       -Setup Laptop
         -Download XCode
@@ -56,6 +70,7 @@
       -Attend All Sessions
         -Correct for Timezone Mismatch
           - MST -1 Hour
+        -Schedule
         -Session 1
           -Take Notes
           -Review Notes
@@ -64,12 +79,12 @@
       -Work on Capstone
         -Schedule 7 Days for Capstone
         -Day 1
-          -Study Vocab
-            -Create Vocab Cards
-              -Lookup Definitions
-                -Open Google
-              -Download AnkiApp
-                -Place Definitions in AnkiApp Flash Cards
+          -Mac OS Introduction
+          -Daily Warm-Up
+          -Computer Setup
+          -Start Gist to track technical progress
+          -Create Codepen account
+          -Read Chapters 1-2 in HTML & CSS
         -Submit Capstone
           -Submit Professional Development Gist
             -Paste Pairin Image in Gist
