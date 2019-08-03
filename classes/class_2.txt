@@ -1,11 +1,13 @@
-Knife
+Employee
   -Attributes:
-    -Length (Integer)
-    -Edge (String)
-    -Sharpness (Boolean)
-    -Cleanliness (Boolean)
+    -Clean_Work_Uniform: (Boolean)
+    -Attitude: (String)
+    -Name: (String)
+    -Job_Title: (String)
+    -Available_Hands: (Integer)
   -Methods:
-    -Cut (Calls upon Sharpness to return true)
-    -Sharpened (changes sharpness to true)
-    -Washed (cleanliness to true)
-    -Dropped (modifies edge to chipped)
+    -Pick_Up_Item: (subtracts from Available_Hands by Integer, Available_Hands: Integer)
+    -Put_Down_Item: (adds to Available_Hands by Integer, Available_Hands: Integer)
+    -Receive_Compliment: (changes Attitude to "String", Attitude: "String")
+    -Introduce: (uses Name and Job_Title: "Hi my name is 'Name', I'm your 'Job_Title'")
+    -Sweat: (changes Clean_Work_Uniform to False, Clean_Work_Uniform: False)
