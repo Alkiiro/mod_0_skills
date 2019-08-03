@@ -1,11 +1,14 @@
-Cooking Performance Group Natural Gas Stove
+Dining Table
   -Attributes:
-    -6 Burners
-    -11 Gas Dials
-    -6 Emergency Sprinklers
-    -S60-GS24-N
+    -Occupied: (True)
+    -Paint_Color: ("Beige")
+    -Extended: (True)
+    -Number_of_Seats: (6)
   -Methods:
-    -Light Front Three Burners (Burner_2, Burner_4, Burner_6)
-    -Set Heat to High on Burner_2, Burner_4 and Low on Burner_6
-    -Set off Emergency Sprinklers over Burner_2, Burner_4
-    -Damage Stove-Top putting out fire
+    -Unseat_Guests: (changes Occupied to False, Occupied: False)
+    -Seat_Guests: (changes Occupied to True, Occupied: True)
+    -Repaint: (changes Paint_Color to "White", Paint_Color: "White")
+    -Shorten_Table: (changes Extended to False, Extended: False)
+    -Extend_Table: (changes Extended to True, Extended: True)
+    -Add_Seats: (adds to Number_of_Seats by 2, Number_of_Seats: 8)
+    -Remove_Seats: (subtracts from Number_of_Seats by 2, Number_of_Seats: 4)
