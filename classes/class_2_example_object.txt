@@ -1,11 +1,13 @@
-Cangshan Thomas Keller Santoku Knife
+Waiter
   -Attributes:
-    -7"
-    -Straight
-    -Very Sharp
-    -Clean
+    -Clean_Work_Uniform: (True)
+    -Attitude: ('Indifferent')
+    -Name: ('Cassidy')
+    -Job_Title: ('Waitress')
+    -Available_Hands: (2)
   -Methods:
-    -Cut (Very Sharp changes to false)
-    -Sharpen (Very Sharp changes to true)
-    -Washed (Clean changes to true)
-    -Dropped (Straight changes to bent)
+    -Pick_Up_Item: (if Available_Hands is more than 0, then subtract from Available_Hands by 1, Available_Hands: 1)
+    -Put_Down_Item: (if Available_Hands are less than 2, then add to Available_Hands by 1, Available_Hands: 2)
+    -Receive_Compliment: (changes Attitude to 'Happy', Attitude: 'Happy')
+    -Introduce: (uses Name and Job_Title: "Hi my name is 'Cassidy', I'm your 'Waitress'.")
+    -Sweat: (changes Clean_Work_Uniform to False, Clean_Work_Uniform: False)
