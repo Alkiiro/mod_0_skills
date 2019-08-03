@@ -6,8 +6,8 @@ Employee
     -Job_Title: (String)
     -Available_Hands: (Integer)
   -Methods:
-    -Pick_Up_Item: (subtracts from Available_Hands by Integer, Available_Hands: Integer)
-    -Put_Down_Item: (adds to Available_Hands by Integer, Available_Hands: Integer)
+    -Pick_Up_Item: (if Available_Hands is more than Integer, then subtract from Available_Hands by Integer, Available_Hands: Integer)
+    -Put_Down_Item: (if Available_Hands are less than Integer, then add to Available_Hands by Integer, Available_Hands: Integer)
     -Receive_Compliment: (changes Attitude to "String", Attitude: "String")
     -Introduce: (uses Name and Job_Title: "Hi my name is 'Name', I'm your 'Job_Title'")
     -Sweat: (changes Clean_Work_Uniform to False, Clean_Work_Uniform: False)
