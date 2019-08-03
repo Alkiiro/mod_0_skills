@@ -1,11 +1,14 @@
-Industrial Stove-Top
+Table
   -Attributes:
-    -Burners (Array)
-    -Gas Dials (Array)
-    -Emergency Sprinklers (Boolean)
-    -Model (String)
+    -Occupied: (Boolean)
+    -Paint_Color: (String)
+    -Extended: (Boolean)
+    -Number_of_Seats: (Integer)
   -Methods:
-    -Light Burners (changes the Burners from off to on)
-    -Set Heat (changes Gas Dials to desired heat out put)
-    -Burn Food (changes emergency sprinklers from off to on)
-    -Check Warranty (calls upon Model's String)
+    -Unseat_Guests: (changes Occupied to Boolean, Occupied: Boolean)
+    -Seat_Guests: (changes Occupied to Boolean, Occupied: Boolean)
+    -Repaint: (changes Paint_Color to "String", Paint_Color: "String")
+    -Shorten_Table: (changes Extended to Boolean, Extended: Boolean)
+    -Extend_Table: (changes Extended to Boolean, Extened: Boolean)
+    -Add_Seats: (adds to Number_of_Seats by Integer, Number_of_Seats: Integer)
+    -Remove_Seats: (subtracts from Number_of_Seats by Integer, Number_of_Seats: Integer)
